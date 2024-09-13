@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there My name is kyoungsoo Kim👋
+I'm passionate in cryptotrading
 
 <!--
 **AlexKim-1207/AlexKim-1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
